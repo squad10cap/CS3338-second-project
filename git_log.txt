@@ -1,0 +1,45 @@
+commit 3d6dce3c5f0185fbc749dad02cbf8be0037dcb52
+Merge: 2c18a45 4250b72
+Author: squad10cap <squad10cap@gmail.com>
+Date:   Thu Sep 10 22:28:21 2026 -0700
+
+    Resolve merge conflict
+
+commit 2c18a45ffbae0000507f49d256f0af170fe58346
+Author: squad10cap <squad10cap@gmail.com>
+Date:   Thu Sep 10 22:23:03 2026 -0700
+
+    Add favorite color
+
+commit 4250b722006509246bf4027a6e347c9de70fa11a
+Author: squad10cap <squad10cap@gmail.com>
+Date:   Thu Sep 10 22:17:31 2026 -0700
+
+    Add favorite food
+
+commit eafc127d4b485b0b8a40db236b1f9a17cca098b9
+Author: squad10cap <squad10cap@gmail.com>
+Date:   Thu Sep 10 22:13:26 2026 -0700
+
+    Add project README
+
+commit 79249720c1af53c19297ff2b9095973ab0600b6e
+Merge: 1d2bfc0 a16c0d4
+Author: squad10cap <squad10cap@gmail.com>
+Date:   Thu Sep 10 22:06:20 2026 -0700
+
+    Merge pull request #1 from squad10cap/info-fill
+    
+    Added personal information
+
+commit a16c0d4be88de4dcd70d0914ff2d2fa98994e2f5
+Author: squad10cap <squad10cap@gmail.com>
+Date:   Thu Sep 10 21:49:47 2026 -0700
+
+    Added personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
